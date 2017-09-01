@@ -1,0 +1,19 @@
+{
+  "name": "your-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlutwuwei/your-react.git"
+  },
+  "author": "dlutwuwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlutwuwei/your-react/issues"
+  },
+  "homepage": "https://github.com/dlutwuwei/your-react#readme"
+}
